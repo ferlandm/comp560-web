@@ -6,3 +6,4 @@
 * [Activity logs](activity-logs.md)
 * [Syllabus](syllabus.md)
 * [Possible projects](possible-projects.md)
+* [Literature](literature/literature.md)

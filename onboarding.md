@@ -12,4 +12,6 @@ This is a list of activities that are recommended to be completed as part of joi
   1. Figure out how to train and sample from the _character-level_ Shakespeare model.
   2. Create a new character-level model that is identical to the character-level Shakespeare model but using a different corpus of text. 
 * Create a new private channel in our Team to act as your _activity log_. See the separate [Activity Logs page](activity-logs.md) for details.
+* Read Baeumel, Tanja, Josef van Genabith, and Simon Ostermann. ["The lookahead limitation: Why multi-operand addition is hard for LLMs."](https://arxiv.org/pdf/2502.19981)
+  - Focus on the experimental results. Don't worry about theoretical ideas.
 * ... under construction ... more to be added ...
